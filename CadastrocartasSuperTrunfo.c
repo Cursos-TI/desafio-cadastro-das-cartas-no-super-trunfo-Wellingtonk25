@@ -10,7 +10,8 @@ int main(){
     float pib;
 
 
-    //Aqui estamos pedindo ao usuário que informe todos os dados solicitados.
+    //Aqui estamos pedindo ao usuário que informe todos os dados solicitados através do printf.
+    //E através do scanf gerar a interatividade com o usuário para inserir as informações.
     printf ("Digite o ID da carta: \n");
     scanf ("%s", &idcarta);
 
